@@ -12,7 +12,7 @@ The analysis focuses on:
 2. **Perfume Sales by Gender for Each Store**: A breakdown of sales by gender for deeper insights.
 
 ## Files
-- `perfume_analysis.pbix`: Power BI file containing all visualizations.
+- `exa.pbix`: Power BI file containing all visualizations.
 
 ## How to Use
 1. Open the `exa.pbix` file in Power BI to explore the visualizations.
